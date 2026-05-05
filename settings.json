@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guruprasath07.aternos.me:32482",
-    "port": 32482,
-    "version": "",
+    "ip": "guruprasath07.aternos.me:60567",
+    "port": 60567,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
