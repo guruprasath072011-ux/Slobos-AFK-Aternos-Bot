@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guruprasath07.aternos.me:60567",
+    "ip": "guruprasath07.aternos.me",
     "port": 60567,
     "version": "1.21.11",
     "try-creative": false
